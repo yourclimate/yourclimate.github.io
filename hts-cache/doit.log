@@ -1,0 +1,8 @@
+http://www.yourclimate.org -O . +*.yourclimate.org/* -vWqQ%v -s0 -c15 -N ?html?%p/%n/index%[page].%t -N %p/%n.%t -%! -A0
+File generated automatically on Sun, 20 Mar 2016 14:52:47, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

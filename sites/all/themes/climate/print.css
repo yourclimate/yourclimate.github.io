@@ -1,0 +1,13 @@
+.print-footer,
+.print-submitted {
+	display: none;
+}
+body {
+	font-size: 10pt;
+}
+
+
+#simplemenu {
+	display: none;
+}
+
